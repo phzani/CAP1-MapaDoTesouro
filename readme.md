@@ -91,6 +91,6 @@ As principais entidades e seus atributos são:
 
 ## 👥 Equipe
 
-- **Flavia Nunes Bocchino** - RM564213
-- **Felipe Silva de Menezes** - RM557891
-- **Pedro Henrique Zani** - RM564956
+- **Flavia Nunes Bocchino**
+- **Felipe Silva de Menezes**
+- **Pedro Henrique Zani** 
